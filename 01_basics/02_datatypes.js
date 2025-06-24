@@ -32,4 +32,5 @@ let undefinedVariable; // variable that is not defined
 
 // Typeof operator
 console.log(typeof firstName); // string
-console.log(typeof temp);
+console.log(typeof age);
+console.log(typeof undefinedVariable); // boolean
