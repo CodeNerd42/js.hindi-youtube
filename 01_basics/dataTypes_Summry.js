@@ -51,3 +51,5 @@ console.log(typeof add); // function
 console.log(typeof heroes); // object (arrays are objects in JS)
 console.log(typeof user); // object
 console.log(typeof uniqueSymbol); // string
+
+
